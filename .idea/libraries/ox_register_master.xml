@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ox_register-master">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/KControls.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mongo-java-driver-3.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
